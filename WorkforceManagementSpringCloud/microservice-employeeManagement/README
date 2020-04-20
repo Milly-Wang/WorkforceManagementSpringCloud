@@ -1,0 +1,5 @@
+Employee Management Spring Boot Application:
+1: Eclipse or Spring Tool Suite
+2: MySQL for Databse
+3: Add dependencies and classpath: spring jpa,mysql,spring web, spring boot AOP
+4: Run it as Spring Boot Application
